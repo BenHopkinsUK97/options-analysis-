@@ -7,7 +7,7 @@ This project implements pricing for European options under the Black–Scholes f
 
 The aim is to demonstrate both theoretical understanding of option pricing and practical numerical implementation in Python.
 
----
+
 Models Implemented
 Analytic Black–Scholes Model -European call and put options
 assumptions:
@@ -19,7 +19,7 @@ assumptions:
 
 This analytic price is used as a benchmark.
 
----
+
 Monte Carlo Simulation
 The Monte Carlo pricer simulates the terminal asset price ( Assest price at time t) 
 
